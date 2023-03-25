@@ -1,0 +1,10 @@
+---Customers Details---
+Queue 1:
+Customer Id: 0 Customer Name: chamodi
+Customer Id: 1 Customer Name: pramudi
+Queue 2:
+Customer Id: 0 Customer Name: ashini
+Customer Id: 1 Customer Name: tashini
+Queue 3:
+Customer Id: 0 Customer Name: harini
+Customer Id: 1 Customer Name: yuwani
